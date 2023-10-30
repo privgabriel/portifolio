@@ -1,0 +1,70 @@
+body {
+  background-color: #050305;
+}
+
+@font-face {
+  font-family: 'Aquire';
+  src: url('../fonts/AquireBold-8Ma60.otf') format('opentype');
+}
+.titulo {
+  font-family: 'Aquire';
+  display: block;
+  margin: auto;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+.subtitulo {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+.imagemCentro {
+  display: block;
+  margin: auto;
+  width: 500px;
+  height: 500px;
+}
+.centerDIVS {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+.statusSI {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding: 0 2.5px;
+}
+.statusCY {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding: 0 2.5px;
+}
+.statusDEV {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding: 0 2.5px;
+}
+.statusQA {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding: 0 2.5px;
+}
+
